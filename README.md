@@ -24,6 +24,9 @@ Var olan Java versiyonlarını listeleyerek, istenilen versiyonun seçilebilmesi
 
 <table>
 	<tr>
+		<th colspan=3> <b> Uygulama İçerisinden </b> </th>	
+	</tr>
+	<tr>
 		<td><img src = "resources/screenshoots/ss01.png" height=200px width=100% /> </td>
 		<td><img src = "resources/screenshoots/ss02.png" height=200px width=100% /> </td>
 		<td><img src = "resources/screenshoots/ss03.png" height=200px width=100% /> </td>
