@@ -22,14 +22,18 @@ Var olan Java versiyonlarını listeleyerek, istenilen versiyonun seçilebilmesi
 * 	<i> Basitleştirilmiş tasarımı ile kabuğa komut geçirip, standart çıktılarını gözlemleyebilme imkanı tanıdığından, projeye bağlı olarak iskelet yapıyı oluşturulabilir </i>
 
 
-<table>
+<table border=0>
 	<tr>
 		<th><img src = "resources/screenshoots/ss01.png" height=200px width=100% /> </th>
 		<th><img src = "resources/screenshoots/ss02.png" height=200px width=100% /> </th>
+		<th><img src = "resources/screenshoots/ss03.png" height=200px width=100% /> </th>
+
 	</tr>
 	<tr>
-		<th><img src = "resources/screenshoots/ss03.png" height=200px width=100% /> </th>
 		<th><img src = "resources/screenshoots/ss04.png" height=200px width=100% /> </th>
+		<th><img src = "resources/screenshoots/ss05.png" height=200px width=100% /> </th>
+		<th><img src = "resources/screenshoots/ss06.png" height=200px width=100% /> </th>
+
 	</tr>
 
 </table>
