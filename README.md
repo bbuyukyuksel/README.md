@@ -11,7 +11,7 @@ Var olan Java versiyonlarını listeleyerek, istenilen versiyonun seçilebilmesi
 
 ## İmkan Sağlar;
 
-*	"tar.gz" uzantılı java dosyasını sürükle-bırak yöntemi ile sisteme yükleme
+*	<span style="color:red;">"tar.gz" uzantılı java dosyasını sürükle-bırak yöntemi ile sisteme yükleme</span>
 *	Güncel olan Java versiyonunu görüntüleyebilme
 *	Arka planda yapılan işlemlerinin log çıktılarını görüntüleyebilme
 *	Basitleştirilmiş terminal arayüzü ile kabuğa komut yollayabilme
