@@ -1,6 +1,6 @@
 # Java Version Selector [JVS]
 
-**Versiyon	:**  1.0
+**Versiyon	:**  1.0 <br />
 **Lisans  	:**  GPL
 **Contributors  :**  Burak Büyükyüksel
    
@@ -17,10 +17,10 @@ Var olan Java versiyonlarını listeleyerek, istenilen versiyonun seçilebilmesi
 *	Basitleştirilmiş terminal arayüzü ile kabuğa komut yollayabilme
 
 ### Not
-* Programın sağlıklı çalışabilmesi için "root" yetkili çalıştırılmalıdır.
+* <i>Programın sağlıklı çalışabilmesi için "root" yetkili çalıştırılmalıdır.</i>
 * Basitleştirilmiş tasarımı ile kabuğa komut geçirip, standart çıktılarını gözlemleyebilme imkanı tanıdığından, projeye bağlı olarak iskelet yapıyı oluşturulabilir.
 
-![Ekran Görüntüsü](resources/screenshoots/ss00.png)
+
 ![Ekran Görüntüsü](resources/screenshoots/ss01.png)
 ![Ekran Görüntüsü](resources/screenshoots/ss02.png)
 ![Ekran Görüntüsü](resources/screenshoots/ss03.png)
