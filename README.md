@@ -21,13 +21,14 @@ Var olan Java versiyonlarını listeleyerek, istenilen versiyonun seçilebilmesi
 * 	<i> Programın sağlıklı çalışabilmesi için "root" yetkili çalıştırılmalıdır </i>
 * 	<i> Basitleştirilmiş tasarımı ile kabuğa komut geçirip, standart çıktılarını gözlemleyebilme imkanı tanıdığından, projeye bağlı olarak iskelet yapıyı oluşturulabilir </i>
 
-<img src = "resources/screenshoots/ss01.png" height=200px width=200px>
-![Ekran Görüntüsü](resources/screenshoots/ss01.png)
-![Ekran Görüntüsü](resources/screenshoots/ss02.png)
-![Ekran Görüntüsü](resources/screenshoots/ss03.png)
-![Ekran Görüntüsü](resources/screenshoots/ss04.png)
-![Ekran Görüntüsü](resources/screenshoots/ss05.png)
-![Ekran Görüntüsü](resources/screenshoots/ss06.png)
+<img src = "resources/screenshoots/ss01.png" height=200px width=200px />
+<table>
+	<tr>
+		<th><img src = "resources/screenshoots/ss01.png" height=200px width=200px /></th>
+		<th><img src = "resources/screenshoots/ss01.png" height=200px width=200px /></th>
+
+	</tr>
+</table>
 
 
 
